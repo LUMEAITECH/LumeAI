@@ -16,7 +16,7 @@ function Header() {
         navigator.clipboard.writeText(contractID)
         toast({
             title: "Copied to clipboard",
-            description: "You can now paste it in the dex",
+            description: "You can now paste it in the dex and send it to the moon",
             duration: 1000,
         })
     }
