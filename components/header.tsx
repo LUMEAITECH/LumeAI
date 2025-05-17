@@ -9,7 +9,7 @@ import {
 } from "@tabler/icons-react"
 import { BookOpenText } from "lucide-react"
 
-const contractID = "Coming Soon"
+const contractID = "Coming Very Soon"
 
 function Header() {
     const handleCopy = () => {
