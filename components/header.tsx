@@ -30,7 +30,7 @@ function Header() {
                         <span className="text-lg">{contractID.slice(0, 4) + "..." + contractID.slice(-4)}</span>
                     </button>
                     <div className="flex gap-4 mt-2">
-                        <a href="https://x.com/raedtoken_" target="_blank" rel="noopener noreferrer" 
+                        <a href="https://x.com/raedtoken" target="_blank" rel="noopener noreferrer" 
                            className="bg-white rounded-full p-2 hover:bg-gray-100 transition-colors">
                             <IconBrandX className="w-6 h-6 text-black" />
                         </a>
